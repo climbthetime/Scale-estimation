@@ -1,4 +1,3 @@
-youtubeId: qthhNiwBQ00
 ## Highly Accurate Scale Estimation from Multiple Keyframes using RANSAC Plane Fitting with a Novel Scoring Method
 Additional experimental results for the paper titled above.
 ### Abstract
@@ -11,7 +10,7 @@ Due to the purely projective nature of a single camera, monocular visual simulta
 ### Recorded video for sequence 05
 ### Recorded video for sequence 06
 ### Recorded video for sequence 07
-{% include youtubePlayer.html%}
+{% include sequence07.html%}
 ### Recorded video for sequence 08
 ### Recorded video for sequence 09
 ### Recorded video for sequence 10
