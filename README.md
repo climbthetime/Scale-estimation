@@ -18,10 +18,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-https://www.youtube.com/watch?v=gOqUBurJafI
+
 ![Image](src)
 ```
-
+https://www.youtube.com/watch?v=gOqUBurJafI
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
