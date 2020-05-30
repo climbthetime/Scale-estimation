@@ -1,4 +1,4 @@
-youtubeId: lDi9uFcD7XI
+youtubeId: qthhNiwBQ00
 ## Highly Accurate Scale Estimation from Multiple Keyframes using RANSAC Plane Fitting with a Novel Scoring Method
 Additional experimental results for the paper titled above.
 ### Abstract
