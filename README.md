@@ -6,7 +6,7 @@ Due to the purely projective nature of a single camera, monocular visual simulta
 #### Example of 3DGPs obtained using ORB-SLAM that are collected from every two consecutive keyframes of the sequences 00, 02-10.
 ![](https://github.com/climbthetime/Scale-estimation/blob/master/Points/00-03.JPG)
 ![](https://github.com/climbthetime/Scale-estimation/blob/master/Points/04-06.JPG)
-![](https://github.com/climbthetime/Scale-estimation/blob/master/Points/07-10.JPG)
+![](http://www.tiffanystaropoli.com/wp-content/uploads/2015/03/Dollarphotoclub_60652121.jpg)
 #### Recorded video for sequence 00, 02-10. The trajectory of ground truth, standard ORB-SLAM and SEPRS are shown in red, black, and blue respectively. The black sparse points are the reconstructed 3D points. The detected feature points on the ground region are shown as red square in the image.
 ##### Recorded video for sequence 00
 {% include 00.html%}
