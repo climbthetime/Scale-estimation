@@ -5,24 +5,25 @@ Due to the purely projective nature of a single camera, monocular visual simulta
 
 #### Example of 3DGPs obtained using ORB-SLAM that are collected from every two consecutive keyframes of the sequences 00, 02-10.
 
-#### Recorded video for sequence 00
+####Recorded video for sequence 00
 {% include 00.html%}
-#### Recorded video for sequence 02
+####Recorded video for sequence 02
 {% include 02.html%}
-#### Recorded video for sequence 03
+####Recorded video for sequence 03
 {% include 03.html%}
-#### Recorded video for sequence 04
+####Recorded video for sequence 04
 {% include 04.html%}
-#### Recorded video for sequence 05
+####Recorded video for sequence 05
 {% include 05.html%}
-#### Recorded video for sequence 06
+####Recorded video for sequence 06
 {% include 06.html%}
-#### Recorded video for sequence 07
+####Recorded video for sequence 07
 {% include 07.html%}
-#### Recorded video for sequence 08
+####Recorded video for sequence 08
 {% include 08.html%}
-#### Recorded video for sequence 09
+####Recorded video for sequence 09
 {% include 09.html%}
-#### Recorded video for sequence 10
+####Recorded video for sequence 10
 {% include 10.html%}
+
 #### Support or Contact
